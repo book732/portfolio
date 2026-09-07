@@ -98,29 +98,41 @@ body {
 
 .project-list {
   display: grid;
+  grid-template-columns: 1fr;
   gap: 20px;
 }
 
 .project-card {
-  background-color: white;
-  padding: 20px;
-  border-radius: 10px;
+  padding: 24px;
   border: 1px solid #ddd;
+  border-radius: 12px;
+  background-color: #fff;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
 }
 
 .project-card h3 {
-  margin-top: 0;
-}
-
-.project-meta {
-  color: #666;
-  font-size: 14px;
+  margin-bottom: 16px;
 }
 
 .project-card a {
-  color: #2563eb;
+  color: royalblue;
   font-weight: bold;
   text-decoration: none;
+}
+
+.project-card a:hover {
+  text-decoration: underline;
+}
+
+@media (min-width: 768px) {
+  .project-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 .contact-form {
