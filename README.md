@@ -38,17 +38,17 @@ https://book732.github.io/portfolio_1/
 - GitHub Pages
 
 
- ## 실행 화면
+## 실행 화면
 
- ### 데스크톱
+### 데스크톱
 
 ![데스크톱 화면](./images/desktop.png)
 
- ### 모바일
+### 모바일
 
 ![모바일 화면](./images/mobile.png)
 
-### 다크 모 드
+### 다크 모드
 
 ![다크 모드 화면](./images/dark-mode.png)
 
