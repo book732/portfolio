@@ -42,15 +42,15 @@ https://book732.github.io/portfolio_1/
 
 ### 데스크톱
 
-![데스크톱 화면](./images/desktop.png)
+![데스크톱 화면](./Images/desktop.png)
 
 ### 모바일
 
-![모바일 화면](./images/mobile.png)
+![모바일 화면](./Images/mobile.png)
 
 ### 다크 모드
 
-![다크 모드 화면](./images/dark-mode.png)
+![다크 모드 화면](./Images/dark-mode.png)
 
 ## 프로젝트 구조s
 
