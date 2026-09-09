@@ -6,7 +6,7 @@ GitHub API를 사용해 GitHub public repository 목록을 불러오고, 프로�
 
 ## 배포 주소
 
-https://book732.github.io/portfolio_1/
+https://book732.github.io/portfolio/
 
 ## 주요 기능
 
