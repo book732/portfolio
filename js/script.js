@@ -742,6 +742,5 @@ contactForm?.addEventListener(
 // 19. 초기 실행
 // =========================================================
 
-initializeTheme();
 
 fetchGitHubProjects();
